@@ -176,3 +176,4 @@ If you present this honestly as a **client-side voting simulation**, it’s soli
 If you try to sell it as a real voting system, it’s wrong. Don’t do that.
 
 Build credibility by being precise.
+# Online-Voting-System
