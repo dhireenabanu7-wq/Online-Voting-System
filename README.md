@@ -1,6 +1,6 @@
 # National E-Voting Portal (Client-Side Prototype)
 
-A client-side **Electronic Voting Machine (EVM) + VVPAT simulation** built using **HTML, CSS, and JavaScript**.  
+A client-side **Electronic Voting Machine (EVM) + VVPAT simulation** built using **HTML, CSS, and JavaScript.  
 This project demonstrates **one-vote enforcement, local vote persistence, and result visualization** for educational and demonstration purposes only.
 
 > ⚠️ **Disclaimer**  
